@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Uyen
-- 👀 I’m interested in Data Analyst
-- 🌱 I’m currently learning SQL, Python, BI tools,...
+- 👀 I’m working as a Business Analytics Analyst
 - 📫 How to reach me: uyenngoc2710@gmail.com 
 
 <!---
