@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Uyen
-- 👀 I’m working as a Business Analytics Analyst
+- 👀 I’m working as a Business Intelligence Analyst
 - 📫 How to reach me: uyenngoc2710@gmail.com 
 
 <!---
